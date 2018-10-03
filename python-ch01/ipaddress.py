@@ -9,6 +9,6 @@ def get_Host_name_IP():
         print("Hostname :  ",host_name)
         print("IP : ",host_ip)
     except:
-        print("Unable to get Hostname and IP")
+        print("Unable to get Hostname and IP Address")
         
 get_Host_name_IP()
