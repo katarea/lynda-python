@@ -3,13 +3,16 @@
 #
 
 from datetime import date
-from datetime import time
-from datetime import datetime
+from datetime 
+import time
+from datetime 
+import datetime
 
 
 # construct a basic timedelta and print it
 
-
+presnt_time = now.presnt_time
+print(presnt_time)
 # print today's date
 
 
