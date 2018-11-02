@@ -1,0 +1,9 @@
+<person>
+ <firstname>ash</firstname>
+ <lastname>kat</lastname>
+ <home>sfo</home>
+ <skill name="java"/>
+ <skill name="r"/>
+ <skill name="python"/>
+ <skill name="sql"/>
+</person>
